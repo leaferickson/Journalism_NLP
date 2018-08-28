@@ -1,4 +1,4 @@
-# Journalism_NLP
+# Journalism NLP
 
 ## Organization and Methodology
 Method for gathering tweets is in [get_tweets](https://github.com/leaferickson/Journalism_NLP/blob/master/data_collection/get_tweets.py) script in the [Data Collection] folder(https://github.com/leaferickson/Journalism_NLP/tree/master/data_collection).
